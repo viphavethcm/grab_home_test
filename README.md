@@ -4,6 +4,11 @@
 ### Build: Gradle"
 ### Programming Framework: SpringBoot"
 
+### Clone project ###
+```
+git clone https://github.com/viphavethcm/grab_home_test.git
+```
+
 ### Option 1: Run with Java (If you have JVM installed) ### 
 * Build project
 ```
